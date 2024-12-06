@@ -20,8 +20,8 @@ Prerequisites
 
 Installation
 ```bash
-git clone https://github.com/yourusername/heygen-client.git
-cd heygen-client
+git clone https://github.com/hasyenpatel/heygen_client.git
+cd heygen_client
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
